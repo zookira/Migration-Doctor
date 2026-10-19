@@ -1,5 +1,4 @@
-# Migration-Doctor
-# ROS Migration Doctor (v0.0)
+# ROS Migration Doctor - RMD  (v0.0)
 An open-source tool that scans legacy ROS 1 codebases and outputs a migration risk report.
 
 **Current status**: Prototype phase — not ready for production.
